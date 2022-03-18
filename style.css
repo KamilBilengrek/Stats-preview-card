@@ -66,6 +66,7 @@ body{
     color:hsla(0, 0%, 100%, 0.6);
     text-transform:uppercase;
     font-weight:400;
+    font-size:0.7em;
 }
 /* photos */
 .headerPhoto{
