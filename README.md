@@ -18,8 +18,8 @@ Different style of website this time. This project required using media queries 
 
 * HTML5
 * CSS custom properties including:
- * Flexbox
- * Media queries
+    * Flexbox
+    * Media queries
 
 ### What I learned
 
