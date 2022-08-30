@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary page solution
+# Frontend Mentor - Stats preview card solution
 
 ## Overview
 
@@ -8,9 +8,9 @@ Different style of website this time. This project required using media queries 
 
 ### Links
 
-- Challenge URL: [Here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
-- Solution URL: [Here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-using-flexbox-and-media-query-mNQttfmGY)
-- Live Site URL: [Here](https://kamilbilengrek.github.io/Stats-preview-card/)
+* Challenge URL: [Here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+* Solution URL: [Here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-using-flexbox-and-media-query-mNQttfmGY)
+* Live Site URL: [Here](https://kamilbilengrek.github.io/Stats-preview-card/)
 
 ## My process
 
@@ -67,9 +67,9 @@ I am also willing to use more media queries to make my websites more accessible.
 
 ## Author
 
-- LinkedIn - [Kamil Bilengrek](https://www.linkedin.com/in/kamil-bilengrek-612a82238/)
-- GitHub - [KamilBilengrek](https://github.com/KamilBilengrek)
-- Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
+* LinkedIn - [Kamil Bilengrek](https://www.linkedin.com/in/kamil-bilengrek-612a82238/)
+* GitHub - [KamilBilengrek](https://github.com/KamilBilengrek)
+* Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
 
 ## Contribution
 
