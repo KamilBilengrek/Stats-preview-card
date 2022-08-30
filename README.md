@@ -8,9 +8,9 @@ Different style of website this time. This project required using media queries 
 
 ### Links
 
-- Challenge URL: [Here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-page-x2trug6wR)
-- Solution URL: [Here](https://www.frontendmentor.io/solutions/order-summary-page-x2trug6wR)
-- Live Site URL: [Here](https://kamilbilengrek.github.io/Order-Summary-page/)
+- Challenge URL: [Here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-using-flexbox-and-media-query-mNQttfmGY)
+- Live Site URL: [Here](https://kamilbilengrek.github.io/Stats-preview-card/)
 
 ## My process
 
