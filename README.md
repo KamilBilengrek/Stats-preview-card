@@ -17,9 +17,9 @@ Different style of website this time. This project required using media queries 
 ### Built with
 
 - HTML5
-- CSS custom properties
-- Flexbox
-- Media queries
+- CSS custom properties including:
+ - Flexbox
+ - Media queries
 
 ### What I learned
 
